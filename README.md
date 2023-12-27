@@ -1,16 +1,8 @@
 # flutter_qq
 
-A new Flutter project.
+这是一个使用Flutter实现模仿QQ的UI Demo
 
-## Getting Started
+## 例子
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![输入图片说明](assets/ezgif-2-77818d24f5.gif)
+![输入图片说明](assets/ezgif-2-9e81adcda4.gif)
